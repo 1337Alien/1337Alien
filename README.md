@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey
 
 <!--
 **1337Alien/1337Alien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
